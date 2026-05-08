@@ -2,7 +2,6 @@
 
 Una aplicación intuitiva de gestión financiera personal que permite definir un presupuesto, registrar gastos por categorías y visualizar el consumo mediante indicadores gráficos.
 
-![Preview Control de Gastos](https://via.placeholder.com/800x400?text=Control+de+Gastos+Dashboard)
 
 ## 🎯 Propósito del Proyecto
 
